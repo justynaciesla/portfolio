@@ -10,7 +10,7 @@ import {
 
 const HomeText = () => {
   const tl = gsap.timeline({
-    defaults: { duration: 0.75, ease: "power1.out" },
+    defaults: { duration: 1, ease: "power1.out" },
   });
   const CreativeText = useRef();
 
@@ -19,7 +19,7 @@ const HomeText = () => {
       CreativeText.current,
       { x: 300, opacity: 0.5 },
       { x: 0, opacity: 1 },
-      "<30%"
+      "<70%"
     );
   }, []);
 

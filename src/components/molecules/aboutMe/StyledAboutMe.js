@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const StyledWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  padding: 0rem 15.6rem 0rem 15.6rem;
+  padding: 0rem 10rem 0rem 10rem;
 `;
 
 export const StyledSpan = styled.span`
