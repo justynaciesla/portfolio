@@ -19,7 +19,7 @@ const HomeText = () => {
       CreativeText.current,
       { x: 300, opacity: 0.5 },
       { x: 0, opacity: 1 },
-      "<70%"
+      "<90%"
     );
   }, []);
 
