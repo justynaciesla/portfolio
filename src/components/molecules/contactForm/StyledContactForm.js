@@ -25,7 +25,7 @@ export const StyledLabel = styled.label`
 
 export const StyledField = styled(Field)`
   width: 12.5rem;
-  padding: 0.3rem 0.3rem 0.3rem 0rem;
+  padding: 0.6rem 0.6rem 0.6rem 0rem;
   outline: 0;
   border-width: 0 0 0.1rem;
   border-color: rgb(203, 62, 166);

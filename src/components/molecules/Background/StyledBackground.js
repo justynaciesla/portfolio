@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const StyledHomeWrapper = styled.div`
   background-color: black;
-  height: 100vw;
+  height: 100vh;
   width: 100vw;
   position: absolute;
   justify-content: center;
